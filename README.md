@@ -26,6 +26,7 @@ TIMI provides efficient multilinear interpolation on rectilinear grids. It suppo
 
 - C++17 compatible compiler (GCC, Clang, MSVC)
 - CMake 3.14+ (for building tests and examples)
+- Gtest (for building and running tests)
 
 ## Installation
 
